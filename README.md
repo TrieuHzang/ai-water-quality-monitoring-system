@@ -1,5 +1,4 @@
-# Water Quality Monitoring and Alert Systemm'm'm'm'm
-
+# Water Quality Monitoring and Alert Systemm
 An embedded IoT system for monitoring domestic water quality and generating alerts when abnormal conditions are detected. The project combines microcontroller-based sensing, wireless communication, and system integration for real-time monitoring.
 
 ## Overview
